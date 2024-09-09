@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">30 Dias De Bienestar</string>
+    <!-- Día 1 -->
+    <string name="day_1_title">Hidratación Constante</string>
+    <string name="day_1_description">Bebe al menos 8 vasos de agua al día para mantenerte hidratado y favorecer el funcionamiento óptimo de tu organismo.</string>
+
+    <!-- Día 2 -->
+    <string name="day_2_title">Desayuno Nutritivo</string>
+    <string name="day_2_description">Empieza tu día con un desayuno balanceado que incluya proteínas, carbohidratos y grasas saludables para tener energía.</string>
+
+    <!-- Día 3 -->
+    <string name="day_3_title">Ejercicio Diario</string>
+    <string name="day_3_description">Dedica al menos 30 minutos al día para hacer ejercicio, ya sea caminar, correr o practicar yoga, para fortalecer tu cuerpo.</string>
+
+    <!-- Día 4 -->
+    <string name="day_4_title">Control de Estrés</string>
+    <string name="day_4_description">Tómate unos minutos cada día para relajarte y controlar el estrés, usando técnicas como la meditación o la respiración profunda.</string>
+
+    <!-- Día 5 -->
+    <string name="day_5_title">Dormir Bien</string>
+    <string name="day_5_description">Asegúrate de dormir al menos 7-8 horas por noche para que tu cuerpo pueda descansar y repararse adecuadamente.</string>
+
+    <!-- Día 6 -->
+    <string name="day_6_title">Comer Frutas</string>
+    <string name="day_6_description">Incluye una porción de frutas frescas en tu dieta diaria para aportar vitaminas y antioxidantes a tu organismo.</string>
+
+    <!-- Día 7 -->
+    <string name="day_7_title">Estiramientos Matutinos</string>
+    <string name="day_7_description">Realiza una rutina de estiramientos al despertar para mejorar tu flexibilidad y reducir la rigidez muscular.</string>
+
+    <!-- Día 8 -->
+    <string name="day_8_title">Planifica Tus Comidas</string>
+    <string name="day_8_description">Organiza tus comidas semanales para asegurarte de mantener una alimentación equilibrada y evitar decisiones impulsivas.</string>
+
+    <!-- Día 9 -->
+    <string name="day_9_title">Postura Correcta</string>
+    <string name="day_9_description">Mantén una buena postura al sentarte y caminar para prevenir dolores de espalda y problemas posturales a largo plazo.</string>
+
+    <!-- Día 10 -->
+    <string name="day_10_title">Respira Profundo</string>
+    <string name="day_10_description">Haz pausas para practicar respiración profunda durante el día, esto ayuda a oxigenar tu cuerpo y relajar la mente.</string>
+
+    <!-- Día 11 -->
+    <string name="day_11_title">Alimentos Integrales</string>
+    <string name="day_11_description">Opta por alimentos integrales en lugar de procesados para mejorar tu digestión y obtener más nutrientes.</string>
+
+    <!-- Día 12 -->
+    <string name="day_12_title">Evita Azúcares Refinados</string>
+    <string name="day_12_description">Disminuye el consumo de azúcares refinados para mantener niveles estables de energía y prevenir problemas de salud.</string>
+
+    <!-- Día 13 -->
+    <string name="day_13_title">Camina Más</string>
+    <string name="day_13_description">Intenta caminar más durante el día, ya sea subiendo escaleras o bajándote una parada antes del transporte público.</string>
+
+    <!-- Día 14 -->
+    <string name="day_14_title">Cuidado de la Piel</string>
+    <string name="day_14_description">Protege tu piel con protector solar y mantén una rutina de limpieza diaria para cuidarla de agresores externos.</string>
+
+    <!-- Día 15 -->
+    <string name="day_15_title">Equilibrio entre Trabajo y Descanso</string>
+    <string name="day_15_description">Tómate descansos regulares durante tu jornada laboral para mantener la productividad y evitar el agotamiento.</string>
+
+    <!-- Día 16 -->
+    <string name="day_16_title">Dieta Rica en Fibra</string>
+    <string name="day_16_description">Incluye más fibra en tu dieta a través de frutas, vegetales y granos integrales para mejorar la digestión.</string>
+
+    <!-- Día 17 -->
+    <string name="day_17_title">Reduce el Consumo de Sal</string>
+    <string name="day_17_description">Disminuye la cantidad de sal en tus comidas para mejorar la salud cardiovascular y evitar la retención de líquidos.</string>
+
+    <!-- Día 18 -->
+    <string name="day_18_title">Haz Pesas</string>
+    <string name="day_18_description">Incorpora el entrenamiento con pesas para fortalecer tus músculos y mejorar la densidad ósea.</string>
+
+    <!-- Día 19 -->
+    <string name="day_19_title">Toma Té Verde</string>
+    <string name="day_19_description">Bebe té verde, que es rico en antioxidantes, para mejorar el metabolismo y aportar beneficios para la salud en general.</string>
+
+    <!-- Día 20 -->
+    <string name="day_20_title">Ríe Más</string>
+    <string name="day_20_description">La risa libera endorfinas, aliviando el estrés y promoviendo una mejor salud mental.</string>
+
+    <!-- Día 21 -->
+    <string name="day_21_title">Evita Comidas Tardías</string>
+    <string name="day_21_description">Cenar temprano ayuda a la digestión y mejora la calidad del sueño al permitir que tu cuerpo procese los alimentos.</string>
+
+    <!-- Día 22 -->
+    <string name="day_22_title">Desconéctate de la Tecnología</string>
+    <string name="day_22_description">Dedica un tiempo sin pantallas para evitar la fatiga visual y disfrutar de momentos de tranquilidad.</string>
+
+    <!-- Día 23 -->
+    <string name="day_23_title">Practica Gratitud</string>
+    <string name="day_23_description">Tomarse unos minutos para reflexionar sobre lo que agradeces mejora el bienestar emocional y promueve una mentalidad positiva.</string>
+
+    <!-- Día 24 -->
+    <string name="day_24_title">Consume Grasas Saludables</string>
+    <string name="day_24_description">Incluye grasas saludables en tu dieta, como las que se encuentran en el aguacate, frutos secos y aceite de oliva.</string>
+
+    <!-- Día 25 -->
+    <string name="day_25_title">Actividad Física al Aire Libre</string>
+    <string name="day_25_description">Sal al aire libre para practicar ejercicio y disfrutar de los beneficios del contacto con la naturaleza.</string>
+
+    <!-- Día 26 -->
+    <string name="day_26_title">Controla las Porciones</string>
+    <string name="day_26_description">Aprende a controlar las porciones para evitar comer en exceso y mantener un peso saludable.</string>
+
+    <!-- Día 27 -->
+    <string name="day_27_title">Mantén una Actitud Positiva</string>
+    <string name="day_27_description">Cultivar una actitud positiva frente a la vida puede mejorar tu bienestar físico y emocional.</string>
+
+    <!-- Día 28 -->
+    <string name="day_28_title">Tómate un Descanso Mental</string>
+    <string name="day_28_description">Desconecta de tus preocupaciones cotidianas realizando actividades que te relajen y renueven tu energía mental.</string>
+
+    <!-- Día 29 -->
+    <string name="day_29_title">Socializa Más</string>
+    <string name="day_29_description">Pasar tiempo con amigos y seres queridos mejora tu estado de ánimo y fomenta relaciones más saludables.</string>
+
+    <!-- Día 30 -->
+    <string name="day_30_title">Mantén el Equilibrio</string>
+    <string name="day_30_description">Trabaja en mantener un equilibrio entre cuerpo y mente, asegurándote de cuidar tanto tu bienestar físico como emocional.</string>
+</resources>
